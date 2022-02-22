@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A small account given forth by one that hath been a traveller for these 40 years in the good old way And as an incouragement to the weary to go forward; I by experience have found there is a rest remains for all they that truly trusts in the Lord. S.B.</title>
+            <author>Blandford, Susannah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28360</idno>
+            <idno type="STC">Wing B3163A</idno>
+            <idno type="STC">ESTC R214903</idno>
+            <idno type="EEBO-CITATION">99826951</idno>
+            <idno type="PROQUEST">99826951</idno>
+            <idno type="VID">31363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31363)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1882:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A small account given forth by one that hath been a traveller for these 40 years in the good old way And as an incouragement to the weary to go forward; I by experience have found there is a rest remains for all they that truly trusts in the Lord. S.B.</title>
+                  <author>Blandford, Susannah.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.B. = Susannah Blandford.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31363:1"/>
+            <pb facs="tcp:31363:1" rendition="simple:additions"/>
+            <p>A Small ACCOUNT GIVEN FORTH By one that hath been a Traveller For theſe 40 Years in the Good <hi>OLD WAY.</hi> And as an Incouragement to the Weary to go forward; I by Experience have found there is a Reſt remains for all they that truly truſts in the Lord.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalms 31.14.</hi>
+               </bibl>
+               <p>I truſted in thee, O Lord, and ſaid, thou art my God.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſalms 31.24.</hi>
+               </bibl>
+               <p>All ye that truſt in the Lord, be ſtrong, he ſhall eſtabliſh your Hearts.</p>
+            </q>
+            <p>S. B.</p>
+            <p>Printed in the Year 1698.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:31363:2" rendition="simple:additions"/>
+            <p>AS God by his Grace having inclined my Heart to be Merciful, and I have had the Comfort of doing Good; whilſt I had an opportunity, in the things as he in this Life is pleaſed to commit to my Care: I have, as in his ſight, walked in the uprightneſs of my Heart, and as in thoſe things partaining to this Life, I have endeavoured to keep a good Conſcience. So in Love to all that may have the Read<g ref="char:EOLhyphen"/>ing of this ſmall Book, I am willing to give them an underſtanding, as I have found where it is to be attained; as Chriſt ſaid, <hi>There is but one good, and that is God;</hi> and as we come be guided by his good Spirit, it will lead us into all things that are good; without which we cannot in<g ref="char:EOLhyphen"/>herit <hi>Eternal Life.</hi> And whatever any may think of me, who look with an evil Eye, yet to my <hi>Friends</hi> that looks with an Im<g ref="char:EOLhyphen"/>partial Eye, it will be received, as it is intended good will to all; and to thoſe re<g ref="char:EOLhyphen"/>main a Friend.</p>
+            <closer>
+               <signed>S. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="3" facs="tcp:31363:2"/>
+            <epigraph>
+               <q>
+                  <p>The Fear of the Lord is the beginning of Wiſdom.</p>
+                  <p>A good underſtanding have all thoſe that keep his Law.</p>
+               </q>
+            </epigraph>
+            <p>AND as a <hi>Traveller</hi> to the good Land of <hi>Reſt</hi> and <hi>Peace,</hi> and having in meaſure attain'd thereunto, by that <hi>Hea<g ref="char:EOLhyphen"/>venly</hi> Guide <hi>Chriſt Jeſus</hi> the true <hi>Light,</hi> that hath been my Inſtructer and Helper, without which I am nothing, nor can do any thing as I ought to do; I am made free to relate ſomething of my attainment thereunto. I was Born of good Parents, Educated according to the <hi>Church</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and tho' Young, Zealous therein; yet could not my Immortal Soul be there<g ref="char:EOLhyphen"/>with ſatisfied, but a deſire was begotten in me, to know the true God, the which to attain I endeavoured the beſt way I could, by Prayer and Faſting in ſecret, not to be ſeen of any: But God, whoſe Eye ſaw me, and my true deſire there<g ref="char:EOLhyphen"/>in; knowing herein I was not ſafe, tried me, and by one thought which aroſe in my Heart concerning God, which I could not help, daſhed all my Building to pieces,
+<pb facs="tcp:31363:3" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:31363:3"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:31363:4"/>and I thought my ſelf the worſt Creature living; thus night and day I had great trouble within, but reſolv'd in the midſt of all, and made it my reſolution to fol<g ref="char:EOLhyphen"/>low the thing that is good, and that God that ſaw me, though I ſaw not him; I was by this often comforted, and it be<g ref="char:EOLhyphen"/>came my Song, <hi>Great are the Troubles of the Righteous,</hi> but <hi>the Lord delivers out of them all;</hi> and ſometimes betwixt Hope and Fear, I travelled from Twelve Years of Age to Eighteen; about which time, by Providence I was led into the <hi>North,</hi> at which time, by wonderful changes wrought in them (by which they had the name given them) called <hi>Quakers,</hi> a People ſo contrary to my Education; and the many ſtrange Reports, that were raiſed of them, was rather frightful, than deſireable to me; but that God, that ſaw the great deſire I had to know him, the only true <hi>God,</hi> and <hi>Jeſus Chriſt</hi> his Son, led the blind by a way I knew not, and by one not called a <hi>Quaker,</hi> but one true to the <hi>Church</hi> of <hi>England,</hi> and a ſufferer for King <hi>Charles</hi> the firſt.</p>
+            <p>I received a true <hi>Account</hi> of the Prin<g ref="char:EOLhyphen"/>ciples and good Lives of theſe People, which in Simplicity of Heart was rela<g ref="char:EOLhyphen"/>ted
+<pb n="5" facs="tcp:31363:4"/>to me, of which I was made ſeri<g ref="char:EOLhyphen"/>ouſly to conſider; and in a ſhort time, felt a Power ariſe in my Heart, and I ſaid this is it I have waited for, and with great Power it rent the Vail, chaſed away my dark thoughts, gave me ſome underſtand<g ref="char:EOLhyphen"/>ing of the Scriptures, and I could ſay, <hi>I have heard of thee, and have read of the Wonders thou didſt for the Children of Men;</hi> but that was not mine, but now by thy great Power and Change thou haſt wrought in me, I came to know thee O God, and by this, and in no other way can I be ſatisfied, and that thou the Im<g ref="char:EOLhyphen"/>mortal God, may'ſt have the Glory of thy own <hi>good Work,</hi> which I never re<g ref="char:EOLhyphen"/>ceived of Man, neither did I ever ſee or hear any of them called <hi>Quakers,</hi> till three Years after or more, but returned into my own Country <hi>(North-Hampton-ſhire)</hi> to my Relations, and not long after came to <hi>London,</hi> and made it my buſi<g ref="char:EOLhyphen"/>neſs, and went ſecretly amongſt all per<g ref="char:EOLhyphen"/>ſuaſions (except <hi>Papiſts</hi> and <hi>Ranters</hi>) to ſee if I could find any, that had the ſence to know God, and his Son <hi>Jeſus Chriſt</hi> within them.</p>
+            <p>But, I could find no outward thing could give my Soul ſatisfaction, neither
+<pb n="6" facs="tcp:31363:5"/>then, nor now, and in that State I walk<g ref="char:EOLhyphen"/>ed alone three Years, but being at a Meet<g ref="char:EOLhyphen"/>ing in great <hi>Allhallows,</hi> one <hi>Edw. Bur<g ref="char:EOLhyphen"/>roughs</hi> came in, and ſtood up, and ſpoke; at which I with others was amazed, ha<g ref="char:EOLhyphen"/>ving never ſeen nor heard any of them before; but was reſolved to hear him again; but by the many ſtrange reports raiſed of them, I was afraid, but I Pray<g ref="char:EOLhyphen"/>ed to the Lord my God in whom I truſt<g ref="char:EOLhyphen"/>ed, that I might not be deceived, for he knew I had nothing in my Eye, but to have a further manifeſtation of <hi>Him, whom to know is Life Eternal,</hi> of the which he reſolved me, and with Signs and Tokens of his <hi>Love,</hi> confirmed me, and I could, and can ſay it was, and is of God, and is the <hi>Truth,</hi> and proceeds from the ſame <hi>Rock,</hi> from which all the <hi>Patriarchs, Pro<g ref="char:EOLhyphen"/>phets,</hi> and <hi>Apoſtles,</hi> had their teaching, <hi>Chriſt Jeſus</hi> the <hi>Rock,</hi> the <hi>Myſtery hid from Ages and Generations, is made known unto us,</hi> of which Knowledge I have learn'd, as they did, who ſaid, what is to be known of God, is <hi>manifeſt in them,</hi> which is the <hi>Key</hi> of <hi>David,</hi> which opens and ſhuts, and gives the true Underſtanding of the Myſtery of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, and the true knowledge to all thoſe,
+<pb n="7" facs="tcp:31363:5"/>who have in true Obedience ſubmitted to his Yoke, and their Wills ſubjected to his Will; theſe ſhall find his ſaving Virtue of Life, which Life being received, and joyned too with all the Heart, it will en<g ref="char:EOLhyphen"/>dow them with the Heavenly Virtue, in <hi>Chriſt Jeſus</hi> our <hi>High Prieſt,</hi> and Cap<g ref="char:EOLhyphen"/>tain of our Salvation: And with Righte<g ref="char:EOLhyphen"/>ouſneſs, Peace and Joy, in the Holy Spi<g ref="char:EOLhyphen"/>rit of God, and thoſe that willingly give up all they have unto him, ſhall find in it more than they can believe, or the Carnal Mind can apprehend, for they knew what they ſaid, that the Carnal Mind knows not the things of God, for they are Spiritually diſcerned, and to be carnally minded is Death, but to be ſpiritually minded is Life and Peace, which is a certain Truth, and according to the Holy <hi>Scriptures,</hi> from which I deſire neither from Them, nor my Neighbour to borrow Words, or a Profeſſion; but to have a right to them, and be made one with them, by the ſame Spirit of <hi>Jeſus Chriſt,</hi> the Lord of all our Mercies; and as in him they lived, mo<g ref="char:EOLhyphen"/>ved, and had their being, who gave them forth, he is ſo to the faithful this day, and what I have heard and ſeen, I declare, that he is the true God, <hi>And
+<pb n="8" facs="tcp:31363:6"/>the Poor in Spirit receive the Kingdom of Heaven,</hi> and ſee a nothingneſs and emp<g ref="char:EOLhyphen"/>tineſs in themſelves, without a dayly ſup<g ref="char:EOLhyphen"/>ply from him, and they are led and made to underſtand the Myſtery of <hi>Electi<g ref="char:EOLhyphen"/>on</hi> and <hi>Reprobation,</hi> as in the two Seeds and Births, the one <hi>elect</hi> and <hi>bleſſed</hi> of God before the World was; if the mind of Man joyns to <hi>Chriſt,</hi> who is God's E<g ref="char:EOLhyphen"/>lect, <hi>Iſa.</hi> 42. they are ſaved by him, and <hi>Works out their Salvation with Fear and Trembling;</hi> and this is the <hi>Elect</hi> and <hi>Cor<g ref="char:EOLhyphen"/>ner-Stone, Chriſt Jeſus,</hi> whom ſoever Builds thereon, <hi>The Gates of Hell ſhall not prevail,</hi> and will over turn overturn till <hi>he come whoſe right is to Reign;</hi> and as unto this <hi>Elect</hi> and <hi>Precious Seed</hi> we Unite, we are therein and thereby bleſ<g ref="char:EOLhyphen"/>ed of God; this is not of our ſelves, but the free Gift given of God, by which we make our <hi>Calling and Election ſure,</hi> and in this we have learn'd to know the Re<g ref="char:EOLhyphen"/>probated, and the <hi>Enemy</hi> of all Mankind, that leads the mind from God, into the <hi>Luſt of the Eye,</hi> the <hi>luſt of the Fleſh,</hi> and the <hi>Pride of Life,</hi> and all other Evils, which if joined unto the Evil conceived in the mind brings Death, and ſepa<g ref="char:EOLhyphen"/>rates Man from God his Maker, and
+<pb n="9" facs="tcp:31363:6"/>here the ſtrong Man keeps the <hi>Houſe,</hi> and by his Temptations therein, prevails on Man to eat the forbidden <hi>Fruit,</hi> by which he breaks the Law of God, and falls under Condemnation, from which State there is no coming; nor the <hi>Figg-leaf</hi> Garment, nor nothing without will cover, but a turning to the bleſſed Appearance and Gift of God in the Soul, and there find the Myſtery, <hi>Chriſt within, the Hope of Glory,</hi> who hath many Names, and his Kingdom is compared to a <hi>little Leaven,</hi> the <hi>loſt Groat,</hi> a <hi>grain of Muſtard Seed,</hi> and many other Parables, and it is vail<g ref="char:EOLhyphen"/>ed from Man, who is in the firſt na<g ref="char:EOLhyphen"/>ture of the Earth, Earthly, but revealed in the ſecond Man, who is the Lord from <hi>Heaven,</hi> which gives us to know the firſt Man <hi>Adam</hi> a living Soul, and the laſt Man <hi>Adam</hi> a quickning Spirit, by which, unleſs we be Born again of the true incorruptible Seed, which enlightens us, we cannot ſee the Kingdom of <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> nor the Glory thereof, which Man in the firſt Nature have ſtrove to know; but we muſt receive that knowledge by the ingrafted Word of God, not in our will and time, theſe things God gives as to know, but being acquainted
+<pb n="10" facs="tcp:31363:7"/>with his Mercies, and the Temptations of the evil <hi>One,</hi> as we may read and learn of <hi>Chriſt,</hi> who left us an example, as all true Travellers ſhall find in them<g ref="char:EOLhyphen"/>ſelves, him near in their beſt performan<g ref="char:EOLhyphen"/>ces; as I have ſeen, and do ſee his ap<g ref="char:EOLhyphen"/>proach, and when I have heard, or ſeen any on the high Mountains, in their I<g ref="char:EOLhyphen"/>maginations, who pretend they ſee all the World, and their ſelves in conceit above all, for which I have been griev<g ref="char:EOLhyphen"/>ed, as well-knowing the danger of that State, and willing I was to have adviſed them, but knowing they was ſo highly ſet up in themſelves, my voice could not reach them, calling that God which is not God, taking the Name of the Lord God in Vain, for which he will not hold them guiltleſs, ſome of them having blown a loud Trumpet, <hi>Jehu</hi> like, ſay<g ref="char:EOLhyphen"/>ing, <hi>Come and ſee my Zeal for the Lord of Hoſts,</hi> which I have been grieved to ſee in ſome, both Men and Women, and have lived to ſee divers fall, which I well knew as they ſtood could not hold out to the end, and many of <hi>Martha's</hi> Spi<g ref="char:EOLhyphen"/>rit I have ſeen, and now do, which runs, and ſerves, and cumbers themſelves with ſtriving to utter Words, and have got
+<pb n="11" facs="tcp:31363:7"/>the true Notion in their Heads, but the true Seed hath not taken root down<g ref="char:EOLhyphen"/>wards; and thoſe are they which are ſtumbling-Blocks, who have been by ſome encouraged, as I might have been, but the Lord my God kept me out of that Temptation, and many others not loving Hypocricy, nor a feigned imitation where<g ref="char:EOLhyphen"/>by I might deceive others, in what I was not truly to God, who called me to take up the Croſs, to that which my Heart loved, whether they were Idols of Silver, or Gold, or other things tho' uſeful, yet if over-valued they fill the Heart, of which there muſt be an emptying, to make room for the Heavenly <hi>Jeſus,</hi> under whoſe Reign, <hi>Iſrael</hi> ſhall ſafely poſſeſs their Souls in Peace, and have the new Name given them, and the <hi>White Stone</hi> which none knows, nor can believe, but thoſe that have it, and thoſe are they that are come through great Tribulations, and are waſhed with the Blood of the <hi>Lamb:</hi> and all thoſe of this Faith, I dear<g ref="char:EOLhyphen"/>ly ſalute, as being Children of one Fa<g ref="char:EOLhyphen"/>ther, whoſe <hi>Voice</hi> I know from the Voice of a <hi>Stranger,</hi> and I thank God, who hath raiſed up the Poor in Spirit, all that are therein gathered, will out-laſt all other
+<pb n="12" facs="tcp:31363:8"/>Notions, and the Lord give Wiſdom to them, that have not as yet thereto at<g ref="char:EOLhyphen"/>tained, to know the true Miniſtration and the right Seaſon, when they ſhould, and when they ſhould not, which in ſome hath been lacking; which cauſes the weak to ſtumble, and keeps out more than it brings in.</p>
+            <p>Thus have I given a ſhort but true Account as I have paſſed through the Wilderneſs of this World, and have ſeen many fall on the Right Hand, and on the Left, where alſo I might but have had for my preſervation, the cloud over me by day to keep me low, that I might not be exalted, neither by Viſions, Sights, nor Revelations; many have been hurt thereby, and caſt that on others, which concerned themſelves: And as the cloud ſtood over me, it kept me low from ſelf-exaltation, to know my ſelf nothing, but what I received from the God of all my Mercies: and as I ſee the <hi>Cloud by day,</hi> I alſo ſee the <hi>Pillar of Fire by Night,</hi> which cauſed me to ſtand ſtill, and ſee the Sal<g ref="char:EOLhyphen"/>vation of God, and the bright appea<g ref="char:EOLhyphen"/>rance of his Glory. I am ſorry for ſome that are backſliden, and may ſay to them, what have you or your Fathers found in
+<pb n="13" facs="tcp:31363:8"/>the God of <hi>Jacob,</hi> that you ſhould depart from him? But let all the ſtrong will'd, know little <hi>David,</hi> who truſts not in Bow nor Sword, but in the living God; he by his Sling and ſmooth <hi>Stone,</hi> ſhall hit the Head of thoſe that defies the Armies of <hi>Iſrael</hi>'s God.</p>
+            <p>And to all you workers of Iniquity, who have charged us that we deny <hi>Chriſt Jeſus</hi> come in the <hi>Fleſh,</hi> the Holy <hi>Scrip<g ref="char:EOLhyphen"/>tures</hi> and the <hi>Reſurrection,</hi> and ſay we are <hi>Heathens,</hi> and <hi>Hereticks,</hi> all which we know to be falſe, and can appeal to God in the integrity of our Hearts therein, and with him we can with Joy leave our Cauſe, as well-knowing he is able in his time to plead it, tho' there may be evil doers amongſt us. If <hi>Chriſt</hi> had one in twelve, that was not enough for the Jews and ſome that followed him, to ſay he was not in the Truth, becauſe <hi>Judas</hi> be<g ref="char:EOLhyphen"/>trayed him, and <hi>Peter</hi> deny'd him, and he in that Agony bearing our griefs, <hi>Iſa.</hi> 53. to cry out, <hi>My God my God why haſt thou forſaken me,</hi> all this muſt needs ſtum<g ref="char:EOLhyphen"/>ble the Eye that looked out, but they remembred his promiſe, and waited at <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> for the fulfilling of it, who ſaid, he would come, and he did come, which
+<pb n="14" facs="tcp:31363:9"/>confirmed them, and ſo it hath done us.</p>
+            <p>And now ſomething to you my dear Children, whom I never deck'd in the extreams of formality, to make my ſelf, or you ſeem what you were not; but this was, and is my deſire for you, ſeek firſt the Kingdom of Heaven, and the Righ<g ref="char:EOLhyphen"/>teouſneſs thereof, and all other things ſhall be added unto you, be ſure to <hi>Remember your Creator in the days of your Youth,</hi> and you ſhall find the Comfort of it in your Old Age, or at your Death, when all the Glory of this World will ſtand you in no ſtead: And though ſome of you have met with ſome Diſappointments, yet you ſhall find (as I have done) all things work to<g ref="char:EOLhyphen"/>gether for good, and bring you nearer to God, which I have ever deſired for you, more than for Silver or Gold, tho' there<g ref="char:EOLhyphen"/>in ſome of you have had a bleſſing beyond my deſire, and my comfort is, you all ſet your Faces <hi>Sion-ward,</hi> and to your Pa<g ref="char:EOLhyphen"/>rents have been Dutiful, Loving and O<g ref="char:EOLhyphen"/>bedient, for which God will bleſs you, as you continue in his Grace.</p>
+            <p>This is written by one that hath been called a <hi>Diſſenting Quaker,</hi> which I de<g ref="char:EOLhyphen"/>ſire not to be from faithful Friends, for
+<pb n="15" facs="tcp:31363:9"/>I never knowingly diſſented from the Truth, but loved it, and though in ſome things was not ſatisfied, yet kept as near as I could in Word and Deed to hurt no <hi>one,</hi> but endeavoured to anſwer a good Conſcience towards God and all Men, in which I have found him near to help me, and the bleſſing to my Soul and Body, and have a true Love to all the ſincere in Heart, by what name ſoever called.</p>
+            <p>And as through Diſpenſations and Ad<g ref="char:EOLhyphen"/>miniſtrations and Gifts, (which are all by the ſame Spirit) God is pleaſed to give a further manifeſtation of Himſelf, who is a Spirit, in that way ſhews Himſelf to Man as he can receive him, which was, and is his great Love, knowing how hap<g ref="char:EOLhyphen"/>py he is made by it, and unhappy with<g ref="char:EOLhyphen"/>out it, and God's great Condeſcenſion therein, who ſeeks Man, before Man ſeeks Him, becauſe he is good, and would have Us be like unto Him, and take delight in Us, and we in Him: and in this way he led all his faithful People, before the <hi>Law</hi> and after, which <hi>Law</hi> was given by <hi>Moſes</hi> by Divine Inſpiration, many Years after ſome of thoſe things were done, which all had their ſignification, and pointed at <hi>Chriſt Jeſus</hi> coming in the
+<pb n="16" facs="tcp:31363:10"/>Fleſh, who, when come, ſaid, <hi>before</hi> A<g ref="char:EOLhyphen"/>braham <hi>was I am,</hi> and they in the Wil<g ref="char:EOLhyphen"/>derneſs drank of the ſame Spiritual <hi>Rock,</hi> which <hi>Rock</hi> is <hi>Chriſt,</hi> the Meſſenger of God and of the New Covenant, the Law written in the Heart, unto Him muſt all come, that will truly know the Interpre<g ref="char:EOLhyphen"/>tation of what's contained in both Old and New Teſtament, which was decla<g ref="char:EOLhyphen"/>red from the Spirit and Power of God in the true <hi>Seed,</hi> and that were left to be profitable, eſpecially to the Man of God, through <hi>Faith</hi> in Chriſt Jeſus, by which we may ſee (as our Minds are turned to God) the Examples of thoſe that followed the Lord their God, and there make a true ſpiritual Application, and ſee how far we are come into the good work of God, in the proving of our Hearts; as <hi>Abraham</hi> Offered up <hi>Iſaac,</hi> ſo muſt every one offer up what God requires, to manifeſt our love to God; and for all ſuch who by Faith walk, God will provide himſelf a Sacrifice; and ſo <hi>Jacob</hi> the wreſtler with God, ſent from his Father's Houſe to go into a ſtrange Land, and have no depen<g ref="char:EOLhyphen"/>dency on any outward or viſible thing in this his Journey, yet Travels on, and the Sun ſets, night comes on, on this Stone
+<pb n="17" facs="tcp:31363:10"/>lays his head, and thus reſts on the faith<g ref="char:EOLhyphen"/>fulneſs of God to him in all conditions, and then is the ladder of true experience ſeen, where the <hi>Angels</hi> of God aſcend, and de<g ref="char:EOLhyphen"/>ſcend, at the foot abode, and you will ſay God was here and I knew it not; and here <hi>Jacob</hi> received his bleſſing, to whom Children was given, and there was a ſtriving, as by the beſt Mind and Spirit, you ſhall find the eldeſt by Nature will ſeek to rule, and ſtrive againſt the belo<g ref="char:EOLhyphen"/>ved of the Father: And <hi>Joſeph</hi> the true born Son ſold into <hi>Egypt,</hi> to provide Corn for <hi>Jacob</hi> and his Sons, but they muſt go down to fetch it; and this is to be known in its time and ſeaſon, and the Scripture fulfilled, and the ſpiritual meaning therein known: As <hi>Saul</hi> the firſt King over <hi>Iſrael,</hi> for ſtature and appearance Beautiful, an<g ref="char:EOLhyphen"/>nointed of the Prophet to be King; but God ſaw beyond outward appearances in<g ref="char:EOLhyphen"/>to the Heart, and they that go out from God their ſtrength, their defence is gone, and they ſhall become weak as <hi>Soul</hi> did, and their Enemies prevail; then contem<g ref="char:EOLhyphen"/>tible <hi>David,</hi> who by his Brethren diſpiſed, him God ſaw, and by the Arm of God's ſtrength had killed the <hi>Lyon</hi> and the <hi>Bear,</hi> and in that Power by which he o<g ref="char:EOLhyphen"/>vercame
+<pb n="18" facs="tcp:31363:11"/>the Latter, by believing in the ſame Power he overcame the greateſt of his Enemies, and this made him King in <hi>Saul</hi>'s ſtead, though with him he had long Wars to Fight the Lord's Battle: but <hi>Solomon</hi> by the true Wiſdom of God muſt Build the Houſe, in whoſe Reign there is Peace and Safety, and he ſhall Judge and give true Judgment betwixt the Mo<g ref="char:EOLhyphen"/>ther and the Child; and <hi>Chriſt</hi>'s Kingdom (Typified in <hi>Solomon</hi>'s) conſiſts of Righ<g ref="char:EOLhyphen"/>teouſneſs, Peace and Joy, which is very delightful and deſirous, becauſe, the ſa<g ref="char:EOLhyphen"/>tisfaction the Soul receives thereby, and hath a true ſight of the Love of God in all he doth, is but to make his Creature Man happy, which Love is ſo great it can<g ref="char:EOLhyphen"/>not be expreſſed, for the which, all thoſe that have received it praiſe God, and all that have not come out of themſelves, and ſeek the Kingdom of Chriſt, not in words, but in Truth, that they may partake with thy Saints in Glory, and thereby ſee the Emptineſs and Vanity of this World, whether it be Profeſſion, Pleaſure, Riches, Honour; the Excellency of this Excels them all.</p>
+            <p>And to all you ſincere hearted, as <hi>Cor<g ref="char:EOLhyphen"/>nelius</hi> was, to whom <hi>Peter</hi> was ſent, who
+<pb n="19" facs="tcp:31363:11"/>ſaid, <hi>I ſee of a Truth, God is no reſpecter of Perſons;</hi> but amongſt all that truly fears God, and works Righteouſneſs, are therein accepted, yet God was pleaſed by <hi>Peter,</hi> to Preach and Teſtifie unto Jeſus Chriſt as his anointed, who was cru<g ref="char:EOLhyphen"/>cified, and to his Reſurection from the Dead, <hi>Acts</hi> 10. that in and through him they might believe, and receive the Gift of the <hi>Holy Ghoſt</hi> and of Power, and thereby the inward cleanſing from Sin and Pollution, and by the Power and Work of <hi>Chriſt,</hi> to become the Sons of God, which no outward thing can do; but whoſo therein believes, ſhall find Pow<g ref="char:EOLhyphen"/>er in that Gift which God hath given, which is a true diſcerner of the thoughts and intents of the Heart, to which, I would perſuade all that are weary and heavy laden to come unto, and they ſhall aſſuredly find Reſt to their Souls, by Chriſt Jeſus the Subſtance, unto which all Men muſt bow in the inwardneſs of their Hearts, for the day of his bright Appearance is at hand; and <hi>Behold he comes with Clouds, Rev.</hi> 1.7. yet they that are gazing abroad, cannot ſee him, being veil'd from that Eye and Mind, as he was unknown to the <hi>Jews</hi> formerly,
+<pb n="20" facs="tcp:31363:12"/>who had a great expectation of the com<g ref="char:EOLhyphen"/>ing of the <hi>Meſſiah,</hi> who came in the will of God at the appointed time; yet he not coming in that Glory, and great Ap<g ref="char:EOLhyphen"/>pearances they expected him, they could not believe nor think that it was he, and now there is great expectation in ſome of his ſecond appearance, ſome ſaying, <hi>Lo here,</hi> and ſome <hi>Lo there,</hi> and yet ſtill are diſappointed, and ſtrangers to his ap<g ref="char:EOLhyphen"/>pearance in Spirit: but to them who truly look for him, he ſhall appear the ſecond time without Sin, unto <hi>Salvation,</hi> and there the true inward Chriſtians ſhall ſee him in his Glory, and enter into his King<g ref="char:EOLhyphen"/>dom, which exceeds all the glory of this World, neither can the wiſe imaginary part in Man give a true deſcription there<g ref="char:EOLhyphen"/>of, but as God's Wiſdom riſes up into the Throne, and hath the Government of the Mind, they ſhall know the depth of theſe things from him that gives it; and give him the Praiſe, who hath brought them into ſo happy eſtate, who deſires well for every Creature, both Man and Beaſt, who groans for deliverance: And as a Man comes to be gathered into the light, and changed into the Nature of Je<g ref="char:EOLhyphen"/>ſus Chriſt, the whole Creation will reap
+<pb n="21" facs="tcp:31363:12"/>great benefit thereby, and as many as have ſeen the beginning of the good Work of God in what he did, <hi>He divided the Light from the Darkneſs,</hi> and <hi>ſaw the Light,</hi> and <hi>it was Good;</hi> and ſo he went on in every day's Work, till the whole Creation was finiſhed; and as we read in the Old, we muſt find it in the New, for he ſaith, <hi>I will make a new Heaven, and a new Earth, wherein ſhall dwell Righteouſneſs.</hi> And as in the firſt, he went on in order in his Work, ſo you ſhall find him now; and though by him called into the Vine-yard to work, it ſhall find in many a high and ſtrong will, which would obſtruct the good Work of God, and that <hi>Hammon</hi> like gets upon the Kings <hi>Horſe,</hi> but he's not <hi>Mordica,</hi> that ſits low in ſackcloth at the gate, and where this is, in what pretence ſo ever, in whom Pride riſes and prevails, it will (if ſuffered) deſtroy the Seed of the <hi>Jews;</hi> but he that ſees in ſecret will reveal the matter, and that Spirit ſhall be brought down, let its cloathing be never ſo glori<g ref="char:EOLhyphen"/>ous: God hath decreed to exalt <hi>Mordicai,</hi> who is of the true Seed, he is found wor<g ref="char:EOLhyphen"/>thy, and the Lord lives; he ſhall Reign whoſe Right it is, though the <hi>Heathen</hi> rage, and the People imagine a vain thing,
+<pb n="22" facs="tcp:31363:13"/>yet will he ſet his Son upon the holy hill of <hi>Sion.</hi>
+            </p>
+            <p>I could not well omit one thing more, to give ſatisfaction to ſome, who may think, I am one that goes under the name that miniſters to the People, but I am not; but this I give as my experience, to all that are traveling to find reſt with God in his <hi>Kingdom</hi> of <hi>Peace;</hi> but to appear in a <hi>Publick Aſſembly,</hi> there to ſpeak, I never did; and I am of the <hi>Apoſtle</hi>'s mind, <hi>Let ſuch Women (as want Inſtructi<g ref="char:EOLhyphen"/>on, or would uſurpe Authority over the Man) keep Silence in the Church, and give place to Man, to whom God hath given Pre<g ref="char:EOLhyphen"/>heminency, and made fit for that great Work;</hi> in which Work, had not I ſatis<g ref="char:EOLhyphen"/>faction in my ſelf, and been ſtrengthened by thoſe worthy good <hi>Miniſters,</hi> through the weakneſs of ſome others who thereto pretend, and, as I well know, run when they are not ſent, I might have ſtumbled; but I ſaw, how ever Juſtified by others, divers of them were not, nor are not upon the right Ground, and ſome of them have been blown away like Chaff with the Wind, not but that I know there is many Good and Vertuous <hi>Women,</hi> who are appointed for good Examples in their
+<pb n="23" facs="tcp:31363:13"/>Families, who in <hi>Modeſty, Sobriety, Cha<g ref="char:EOLhyphen"/>rity,</hi> and <hi>good Works,</hi> a <hi>good Life,</hi> and <hi>Converſation;</hi> with theſe I joyn, and in that Life I deſire to Preach to my Chil<g ref="char:EOLhyphen"/>dren, Friends, Neighbours and Servants; and they that in this rightneſs of Heart Live, ſhall deceive none, but gain to themſelves a laſting Eſtabliſhment, which ſhall be of good Savour, never to be re<g ref="char:EOLhyphen"/>pented of; and as in this I deſire to do unto all as I would be done unto, and that in Truth and Sincerity I have here writ, may be for the good of all; to help the Feeble, and ſtrengthen the Weak, and that from the ground of Integrity, and in Good Will to all Men; and it being re<g ref="char:EOLhyphen"/>ceived in the good Mind, will cover any Weakneſs herein contained, and make that uſe of it as it is intended, <hi>Good Will to all, and Glory to God.</hi> Yet as there was for<g ref="char:EOLhyphen"/>merly, ſo there is now, <hi>he that is born af<g ref="char:EOLunhyphen"/>ter the Fleſh, Perſecutes him that is born af<g ref="char:EOLhyphen"/>ter the Spirit,</hi> whoſe Cenſures I expect not to eſcape, it being ſo natural to the Litte<g ref="char:EOLhyphen"/>ral <hi>Jews,</hi> when they could find nothing to accuſe Chriſt of, whilſt upon the Earth, ſought what they could to intrap him in his Words; but God gave him that Wiſ<g ref="char:EOLhyphen"/>dom to ſee in them, and cautioned his
+<pb n="24" facs="tcp:31363:14"/>Diſciples, <hi>not to give the Childrens Bread to Dogs, nor Pearls to Swine, leaſt they trample them under Foot, and turn again and Rent you;</hi> under Chriſt's Protection I leave my ſelf.</p>
+            <p>This writ by one that hath waited at <hi>Wiſdom's Gate</hi> for Inſtruction, who hath given me an entrance to know as I have here declared, and all that would go high<g ref="char:EOLhyphen"/>er to ſee the Bride, the Lambs Wife, muſt be guided thereto by the Meek and Hum<g ref="char:EOLhyphen"/>ble Spirit of <hi>Jeſus,</hi> without which there is no Safety, though they may underſtand all Myſteries, and give much to the Poor, and have all thoſe Gifts the Apoſtle men<g ref="char:EOLhyphen"/>tions (in the 13 of the 1. Epiſtle to the <hi>Corinthians</hi>) and yet if the moſt excelent gift of Charity be wanting that thinks no Evil, which boaſteth not, <hi>&amp;c.</hi> but Suffer<g ref="char:EOLhyphen"/>eth, Believeth, Hopeth, and Endureth all Things, and rejoyceth in God alone, he that is here will out-laſt all other let their pretences be what it will, and they that come not here let them change their Ha<g ref="char:EOLhyphen"/>bits, their Cuſtoms, and as ſome call it the <hi>Worlds Faſhions,</hi> yet if they come not to ſee the <hi>World's Covetouſneſs</hi> (unto which the Heart of Man is naturally in<g ref="char:EOLhyphen"/>clined) rooted out, the Earth will open
+<pb n="25" facs="tcp:31363:14"/>and ſwallow up that Mind, and the Heart will be dead to God, and they will looſe their part in the bleſſed Inheritance.</p>
+            <p>Some on the other hand notwithſtand<g ref="char:EOLhyphen"/>ing they may have ſeen the good way, ſet forward therein, but ſoon forgot what the Lord did for them, who brought them out of the <hi>Land of Darkneſs,</hi> from under their hard <hi>Taskmaſtrrs,</hi> who put them to make <hi>Brick</hi> without <hi>Straw;</hi> their Hearts not being throughly Converted, they luſted for the <hi>Garlick</hi> and <hi>Onions</hi> again, their old Diet; and though they had paſt the <hi>Sea,</hi> many dyed in the <hi>Wilderneſs,</hi> and all them that delighted in the Sins of <hi>Sodom,</hi> and make a mock at the good <hi>An<g ref="char:EOLhyphen"/>gel,</hi> that God hath ſent to pull juſt <hi>Lot</hi> out of <hi>Sodom,</hi> they ſhall be ſtruck Blind, and the Fire of God's Wrath ſhall deſtroy all ſuch that come not in at the right Door of him who ſaid, <hi>I am the Way, the Truth, the Life, and the Light;</hi> who ever ſtriveth by any other way will be found Theives and Robbers, and deprive the Soul of its In heritance with God.</p>
+            <p>This by one who for many Years hath been counted a <hi>Diſſenter,</hi> being never forward to intrude into thoſe things I had not ſeen nor adhered to, what I had not a
+<pb n="26" facs="tcp:31363:15"/>clear ſight as my duty to God, and there I ſtand ſtill waiting on God to reveal to me; yet that God that ſees the inſide, the Heart, hath rewarded me according to the ſincerity thereof; and I have found his Love ſo great and unexpreſſible, which hath made up all again more than I have loſt by any Man, and hath ſafely preſer<g ref="char:EOLhyphen"/>ved where Man could not ſee me, whoſe Eye is abroad and looks at the outſide ap<g ref="char:EOLhyphen"/>pearance; but as God's Eye, who beholds both Evil and Good, ſo have I ſeen in both Parties things acted and done, which my Soul had no Pleaſure nor Unity with, but was willing the Lord ſhould bring me off from thoſe from whom he was depar<g ref="char:EOLhyphen"/>ted, and that the ſincere hearted of both ſides might be Reconciled, for the accom<g ref="char:EOLhyphen"/>pliſhing of which I have uſed my beſt Endeavours, deſiring there may not be a looking at what is paſt, but an endeavour<g ref="char:EOLhyphen"/>ing for the good of all, as I have really done, as may be ſeen in this following <hi>Letter,</hi> which I writ in anſwer to a Friend, who was and is diſſatisfied with ſome for appearing therein; but let thembe what they pleaſe, I am well ſatisfied in this good Work.</p>
+            <pb n="27" facs="tcp:31363:15"/>
+            <p>But I have ſeen the new Wine put into the old Bottle, it not being well ſeaſoned there becomes a Sowerneſs, and the good Reliſh thereby ſeems to be loſt, that is in it ſelf good; in which ſtate there is many that keeps to the old Leaven of the <hi>Phariſees;</hi> Chriſt gives this Mark by which they ſhould be known, <hi>They love the uppermoſt Places, and to be Maſter, make long Pray<g ref="char:EOLhyphen"/>ers, and to preach in their own Wills, dif<g ref="char:EOLhyphen"/>ferent in their Robes, makes a fair ſhow in the Fleſh, that they may appear well unto Men;</hi> this hath been and is a great grief to the Juſt, but I am comforted in this, I ſee many right-hearted and good Chriſti<g ref="char:EOLhyphen"/>ans, who ſpeaks from the Truth the an<g ref="char:EOLhyphen"/>nointed of God, thoſe God will bleſs, and he will appear in them who reigns in Righteouſneſs, and all ſuch ſhall reign with him for ever and ever; and as I have ſeen this Good, I have alſo ſeen this Evil, which Man is prone to, and apt to ſet a great value upon themſelves, and they not ſee it, and let the Truth be ne<g ref="char:EOLhyphen"/>ver ſo plainly diſcovered, and from the Spirit of the Living God dictated; yet if it comes not in their way, and after their manner, as they have ſet it up in them<g ref="char:EOLhyphen"/>ſelves, there is no room for any thing to
+<pb n="28" facs="tcp:31363:16"/>enter, though never ſo good; of this I have made to my ſelf a good Caution, and ſaid, <hi>O Lord if this Iniquity remains in me, ſearch it out; for I ſee it looks ill in others, and ſo it will in me if I am found therein.</hi>
+            </p>
+            <closer>
+               <signed>S. B.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <l>How mean ſoever I may appear to Man,</l>
+            <l>A Witneſs in my Soul there lives that can,</l>
+            <l>Bear Record to the <hi>Father</hi> this, that I</l>
+            <l>Seek not Mortals praiſe, but Immortality;</l>
+            <l>That Crown of Reſt and Peace I may receive,</l>
+            <l>Which Mortals have not in their Power to give;</l>
+            <l>Which he muſt do who ſets me free from <hi>Sin,</hi>
+            </l>
+            <l>And being clean in Peace there Rules that King,</l>
+            <l>Who will not joyn unto Iniquity,</l>
+            <l>But love's <g ref="char:V">Ʋ</g>prightneſs and Integrity.</l>
+            <l>Thinks <hi>Human Wiſdom,</hi> I can eaſily ſee,</l>
+            <l>The <hi>Scripture</hi> can this thing declare to me;</l>
+            <l>But 'tis not known by <hi>Pleaſure, Eaſe</hi> or <hi>Sleep,</hi>
+            </l>
+            <l>Who find this <hi>Pearl,</hi> muſt dig low and deep;</l>
+            <l>And who finds before it be his own,</l>
+            <l>They muſt ſell all to purchaſe that alone,</l>
+            <l>And caſt up all his Stock and look within,</l>
+            <l>Before to Build this Houſe he doth begin,</l>
+            <pb n="29" facs="tcp:31363:16"/>
+            <l>And learn by true experience rightly for to know,</l>
+            <l>The thing that's realy good from what's but good in ſhow</l>
+            <l>Remember <hi>Babel,</hi> do not build too High,</l>
+            <l>Nor make a Tower to reach unto the Skie,</l>
+            <l>Nor look thou out, but turn thy Eye within,</l>
+            <l>See Chriſt there laid, then build thy Houſe on him.</l>
+            <l>Who build not on that <hi>Rock</hi> ſhall ſurely fall,</l>
+            <l>For he is that <hi>Corner Stone</hi> uniteth all.</l>
+            <l>Ceaſe then a while you Humane Learned Men,</l>
+            <l>That know your Wiſdom cannot find out him.</l>
+            <l>Thou Willing and Obedient, know it's thee,</l>
+            <l>Whoſe Vale is rent to ſee this Miſtery,</l>
+            <l>It's not the prudent learned Wit that ſhall</l>
+            <l>Him comprehend who is the Light of all,</l>
+            <l>The Lamb of God, who comes in love to gain</l>
+            <l>And bring loſt Man (ſtray'd from God) back again;</l>
+            <l>And make Man happy, the greateſt good that can</l>
+            <l>Befall to Mortals, or the Sons of Men;</l>
+            <l>Which if not rightly known, what e're we do</l>
+            <l>Wants the good Oil, and God's acceptance too.</l>
+            <l>He ſees the Heart and what rules there full well,</l>
+            <l>Whether it be Pride or Paſſion, Husk, Fame or Shell;</l>
+            <l>Of all that cumber we must come to ſee,</l>
+            <l>Man ſtrip'd of all and Chriſt alone to be</l>
+            <l>The true conducter, from the ways wherein</l>
+            <pb n="30" facs="tcp:31363:17"/>
+            <l>He'll not appear, becauſe they lead from him;</l>
+            <l>And all that goes in this true bleſſed way,</l>
+            <l>Shall by his Light be ſav'd both Night and Day.</l>
+            <l>And as I have walk'd unſeen and all alone,</l>
+            <l>In ſecret to my God I made my moan.</l>
+            <l>Its reſtleſs eye that makes complaint to none,</l>
+            <l>But unto thee from whom relief muſt come;</l>
+            <l>Out of my Troubles, Doubts and Fears,</l>
+            <l>And ſend the Harveſt which was ſown in Tears;</l>
+            <l>Tho' ſorrow may indure for a Night,</l>
+            <l>Thy morning Preſence brings my Soul delight;</l>
+            <l>Thou art a God of Truth, in all things Juſt,</l>
+            <l>And thoſe that know thy Name will in thee Truſt.</l>
+         </div>
+         <div type="letter">
+            <head>An Anſwer to a Letter from a Friend.</head>
+            <p>THine I received, and have conſider<g ref="char:EOLhyphen"/>ed thereof, and could have been more large in my own, and my Friends Vindication therein concern'd; but am gathered into that, not to ſtrive, but to commit my Cauſe to God in well-doing; having in my ſelf, and many others, ſeen <hi>Pride</hi> to beget <hi>Paſſion,</hi> and <hi>Paſſion Preju<g ref="char:EOLhyphen"/>dice,</hi> by which the <hi>Eye</hi> of the right un<g ref="char:EOLhyphen"/>derſtanding
+<pb n="31" facs="tcp:31363:17"/>is made Blind: As for rehear<g ref="char:EOLhyphen"/>ſal of all thoſe former ſailings therein con<g ref="char:EOLhyphen"/>tained, if they were true, yet rightly conſidered, and impartially weighed; may ſay, ſince thoſe Diviſions, a great ma<g ref="char:EOLhyphen"/>nifeſtation there hath been of ſuch Spi<g ref="char:EOLhyphen"/>rits, to whom thoſe names may deſervedly be attributed; tho' for many Years I have been counted a <hi>Diſſenter,</hi> Yet I, nor many more, never took pleaſure to lay the Na<g ref="char:EOLhyphen"/>kedneſs of any open, but rather to cover for his Names ſake, who hath kept us in his Truth, by which we have been pre<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>I have ſeen, I have ſeen, an <hi>Enemy</hi> enter the Houſe, and hath not been diſcover'd till they come into the Cool, out of the Hurry and Noiſe, and hear the call of the <hi>ſtill Voice;</hi> and herein my Soul, with ma<g ref="char:EOLhyphen"/>ny other of my Chriſtian Friends, have been Bleſſed; and by this we are led to Unite, and to be truly reconciled in that <hi>Spirit,</hi> by that Heavenly <hi>Jeſus,</hi> that true <hi>Reconciler</hi> of Man to his <hi>Maker.</hi>
+            </p>
+            <p>And of this, from thy true Friend, be aſſured, it was not from the Spirit of <hi>Hy<g ref="char:EOLhyphen"/>pocriſie, Policy,</hi> or any <hi>carnal</hi> or <hi>ſelfiſh End,</hi> no, no, our Houſe is not Built on that <hi>Sandy Foundation,</hi> but on <hi>Chriſt Jeſus,</hi>
+               <pb n="32" facs="tcp:31363:18"/>that <hi>Rock of Ages,</hi> which leads his in the way of Everlaſting <hi>Peace,</hi> which <hi>Peace</hi> cannot be declared, but as it is felt, of which <hi>Peace</hi> hath my Soul taſted largely, and can ſay truly, ſince into this happy ſtate the Lord hath brought me, I have experienced more of that <hi>Heavenly Joy,</hi> and <hi>Everlaſting Peace,</hi> than ever I knew before, but I thank the Lord who gave me a ſhare thereof, under every diſpen<g ref="char:EOLhyphen"/>ſation he hath led me through, and can ſay, they were all good in their time, but this excelleth them all, well knowing the Adminiſtration of <hi>John</hi> to be Glorious in its Time, yet, <hi>He that is leaſt in the King<g ref="char:EOLhyphen"/>dom of Heaven is greater than he;</hi> into which <hi>Kingdom,</hi> that thou may'ſt have an entrance after all thy Travels, and come into this <hi>Sabbath</hi> and <hi>Reſt</hi> with God, will be a true Joy to thy Friend, of which I can ſay, with many more of my dear Friends whom I know not, but as I feel them in this Spirit, <hi>It is the Way and there is not another:</hi> And for all thoſe that are other wiſe-minded, the Lord ſned a <hi>Fa<g ref="char:EOLhyphen"/>mine</hi> to come on the outward <hi>Knowledge,</hi> that they may know to be led to the Spi<g ref="char:EOLhyphen"/>ritual <hi>Joſeph;</hi> whoever comes unto him, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upbraideth no one with what is paſt,
+<pb n="33" facs="tcp:31363:18"/>but receives them with his Love, and embraceth them, and they partake with him of the Fatneſs of the good <hi>Land.</hi> Of this I am a witneſs, and remain</p>
+            <closer>
+               <signed>
+                  <hi>Thy True Friend, <hi>S. B.</hi>
+                  </hi>
+               </signed>
+
+               <signed>S. B.</signed>
+            </closer>
+            <postscript>
+               <p>AS to a <hi>Faſt,</hi> I deſire this may be ſo<g ref="char:EOLhyphen"/>lemnly proclaimed; a <hi>Faſt</hi> from <hi>Strife, Malice</hi> and every evil <hi>Work,</hi> as new Born Babes deſire the ſincere Milk of the Word of Life, and grow thereby, in which we ſhall be accepted of God, and truly reconciled to one another.</p>
+            </postscript>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>I Did not intend to have Printed this <hi>Letter</hi> I ſent to a <hi>Friend,</hi> but finding he hath Printed the <hi>Letter</hi> he ſent to me, as an Anſwer to <hi>W. R</hi>'s Book I ſent him, which Book I had good Unity with, and with all that are of a reconciling Spirit, which to my Comfort, I find many ſincere hearted therein, and as the vail of Preju<g ref="char:EOLhyphen"/>dice
+<pb n="34" facs="tcp:31363:19"/>comes to be taken of the Heart, we ſhall ſee one another as God ſeeth us, to whom I approve my Heart, let Men Judge of me as they pleaſe; it is not from any Evil or Inſinuating ſelf-end, I can truly ſay for my ſelf, and many more true <hi>Chriſtian Friends,</hi> whoſe Hearts in this matter of Reconciliation is not to gain Praiſe of Men, God is our witneſs; but we are led to Unite by that bleſſed Spirit, who hath ſhewed us of what and in what the <hi>Kingdom of Heaven</hi> conſiſts, of which is true Righteouſneſs, Joy and Peace in the holy Spirit, which I with ma<g ref="char:EOLhyphen"/>ny more have taſted, and could be glad all that oppoſe would come and taſte and ſee how good the Lord is, and with what the <hi>Immortal Soul</hi> is Refreſhed.</p>
+            <p>I could never find ſatisfaction in any viſible thing, till I received the <hi>Word</hi> of <hi>God,</hi> in which <hi>Word</hi> I find the <hi>Key</hi> of <hi>David, Which opens and none can ſhut, and ſhuts and none can open;</hi> and that is that, that opens the <hi>Myſtery of the Kingdom of God,</hi> in which the <hi>Father, Son</hi> and <hi>Spirit</hi> is to be koown; which <hi>Word</hi> of <hi>Faith,</hi> gave the true underſtanding to the <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> and <hi>Apoſtles,</hi> and to all the <hi>Faithful</hi> of <hi>God</hi> to this day: <hi>And in that way
+<pb n="35" facs="tcp:31363:19"/>which ſome call Hereſie, Worſhip I the God of my Fathers, believing all the Law and the Prophets, and in</hi> Jeſus Chriſt, <hi>who is the Author and Finiſher of our Faith.</hi>
+            </p>
+            <closer>
+               <signed>S. B.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <p>
+               <hi>O Lord! Out of the deep I cried unto thee, and thou pluckedſt my feet out of the Mire and Clay, and haſt ſet them in the right way:</hi> And being converted, ſtrengthen my Bre<g ref="char:EOLhyphen"/>thren. Unto which I have this further to add, when I firſt heard the confuſed noiſe, made by <hi>G. K.</hi> and <hi>T. B.</hi> which appea<g ref="char:EOLhyphen"/>rance was, and is to me like the <hi>Golden Calf;</hi> and beholding many I knew, which I thought had been more grafted in the <hi>Word</hi> of <hi>Life,</hi> than to go after it, for which I was greatly troubled, but the heavenly <hi>ſtill Voice</hi> gave me this Satisfa<g ref="char:EOLhyphen"/>ction, fret not thy ſelf, be ſtill, it is a Cloud I ſuffer, the Wind thereof ſhall blow away the <hi>Chaff,</hi> but I will gather my <hi>Wheat</hi> thereby nearer together; and this I know to be a certain Truth, by which my Heart hath been often refreſh<g ref="char:EOLhyphen"/>ed, for which my Soul, <hi>Praiſe thou the Lord.</hi>
+            </p>
+            <closer>
+               <signed>S. B.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="36" facs="tcp:31363:20"/>
+            <p>And unto all thoſe who have raked up the miſcarriages and evils, and printed it, and given it abroad to defame the People called <hi>Quakers,</hi> whoſe Principles ſhall out-laſt their Malice; and was ſome of us of their Spirit, to render evil for evil, revileing for revileing, might ſay that of ſome of them that would cauſe ſhame, who covered their fooliſh actions with the name of the Lord, but it was, and is ſuch a Lord, of which there is many, but not the true God as ſome can witneſs, but cover'd it from Men, hopeing time might work them to ſee their weak<g ref="char:EOLhyphen"/>neſs, and know the true Lord over-ruling all their falſe Imaginations, who may be truly compared to <hi>Saul,</hi> when gone from the true <hi>God,</hi> he goes to the <hi>Witch</hi> of <hi>En<g ref="char:EOLhyphen"/>dor,</hi> and ſhe raiſed up what he would ſee, but not what he ſhould ſee; ſo he was never the better for it, but his Ene<g ref="char:EOLhyphen"/>mies prevailed, and he fell by his own Sword; ſo ſhall envy ſlay the wicked Man; and they in darkneſs ſhall grope for the door, but ſhall not find it: All this is true, and I own before all Men the Principle of the <hi>Quakers.</hi> And have this to ſay for my ſelf, and many more I well know, however our Enemies may render
+<pb n="37" facs="tcp:31363:20"/>us; vve knovv this by our ſelves, and our Conſciences bears us vvitneſs, vve have in good Converſation vvalked before God and Men, vvhich vvill ſpeak for us in the gates of our Enemies; and vve find the anſvver of a good Conſcience a continual Feaſt, who have not received the Truth by obſervation, but by the true adminiſtra<g ref="char:EOLhyphen"/>tion, by which we have learn'd vvhat lets into the Kingdom of our God, and vvhat keeps out, let Mens pretences be vvhat they vvill; they that makes lies there re<g ref="char:EOLhyphen"/>fuge, and takes avvay Mens good names, ſhall be found vvorkers of Iniquity.</p>
+            <p>I having in this ſmall account hinted of many States, and ſeveral ways of the Lord's working in Man, that he may come to know him, and on him rely in all eſtates. I have one thing further to add; I have lately ſeen an excerciſe at hand, but when or in what I know not, but leave it to God and his appointed time, let it be in Mercy or in Judgment, I be<g ref="char:EOLhyphen"/>lieve all is for good, as I have ever found all his dealings to me, it was unpleaſant to the fleſhly part, but I turn'd in, and ſaw God's preſervation near to all that truly on him relies; and in nothing elſe was there ſafety, and therefore I deſire all
+<pb n="38" facs="tcp:31363:21"/>to draw their minds from Vanity and con<g ref="char:EOLhyphen"/>ſider their latter end, that it may go well with them, what change ſo ever comes; for the glory of this World paſſes away, therefore <hi>Work while the Day laſts, for the Night cometh wherein no Man can Work:</hi> I have alſo by my experience learned that in Sights and Viſions, without watchfulneſs, there is a Temptation near, there being a readineſs in Man to caſt that on others, which God intends for our ſelves, if vve could patiently wait till the Viſion ſpeaks; for vvant of that many have run fiercely into things without, and have fail'd, and have brought Reproach on themſelves, and God not glorified thereby: this I have alſo ſeen, and is often before me, and as there is no outward thing I more truly rejoyced in than to hear the Faithful Mi<g ref="char:EOLhyphen"/>niſters of Jeſus Chriſt, in the which I am Comforted, that <hi>God</hi> hath given ſuch a manifeſtation of his Heavenly good Spirit to inſtruct his People in the Right and Everlaſting Way, which <hi>God</hi> will Eſtabliſh in the Earth; though I could be glad for the ſake of many who take offence and are kept back, becauſe it is very diſcernable, <hi>Martha</hi>'s Spirit ſpeaks when they had better be Silent,
+<pb n="39" facs="tcp:31363:21"/>goes haſtily forward, but would find a greater gain in themſelves, if they learn'd to obey, and ſtand ſtill and ſee the <hi>Salva<g ref="char:EOLhyphen"/>tion of God;</hi> ſuch may be angry that o<g ref="char:EOLhyphen"/>thers riſe not up and ſerve after their manner, but <hi>Jeſus</hi> that rightly knows the Spirits of all, ſaw <hi>Mary</hi> ſit at his Feet, low in her ſelf, ſhe choſe the better Part, which ſhall never be taken away, and the Seed lown in that good Ground ſhall bring forth Fruit to the <hi>Lord of the Harveſt;</hi> but there is ſeveral ſorts of Ground in vvhich the good Seed is ſown, and there are many Obſtructions in the Ground which hin<g ref="char:EOLhyphen"/>der the Proſperity of <hi>Gods</hi> holy and good Seed; but the <hi>Harveſt</hi> will come, and the good <hi>Husband-man</hi> will diſcern the <hi>Tares</hi> from the <hi>Wheat,</hi> vvhich none elſe can do, there being ſuch a likeneſs; the Admini<g ref="char:EOLhyphen"/>ſtration of <hi>John</hi> vvas Glorious, in its time, but he ſaid, <hi>Behold the Lamb of God, that takes away the Sins of the World,</hi> ſhall be pre<g ref="char:EOLhyphen"/>ferr'd before and above all appearances, be they vvhat they vvill, here <hi>many that are Laſt ſhall be Firſt, and the Firſt Laſt:</hi> theſe are <hi>Chriſt</hi>'s ovvn Words, and are certain<g ref="char:EOLhyphen"/>ly true, and beleived by one vvho vviſhes vvell to all.</p>
+            <closer>
+               <signed>S. B.</signed>
+            </closer>
+         </div>
+         <div type="conclusion">
+            <pb n="40" facs="tcp:31363:22"/>
+            <p>I being incouraged by the <hi>Immortal God</hi> to Print this, and the matter contained therein, and gave it to ſeveral <hi>Friends;</hi> and it coming into the hand of <hi>T. C.</hi> he came to me, and asked me, Whether I meant <hi>George Keith?</hi> To whom I replied, <hi>I did;</hi> who made this Application, becauſe he Preached up the Man <hi>Chriſt Jeſus;</hi> there<g ref="char:EOLhyphen"/>fore he ſaid, I made him the <hi>Golden Calf;</hi> and ſo he reported it: And to all that ſhall hear this Report, I have this to ſay, and take Almighty God to be my Witneſs, I do believe <hi>Jeſus</hi> of <hi>Nazareth,</hi> Born at <hi>Bethlehem,</hi> according to God's Divine Ap<g ref="char:EOLhyphen"/>pointment, to be the <hi>Eternal Son</hi> of <hi>God,</hi> and all thoſe things to be true, as the Scriptures declare of him, and have re<g ref="char:EOLhyphen"/>ceived ſo great a benefit by him, as my Tongue cannot expreſs; and for this falſe Aſperſion and wrong Interpretation of <hi>T. C.</hi> I leave God to plead my Cauſe, whom I know is able, and in his time will do it; but muſt ſay, as I have once before, <hi>He that is born after the Fleſh Perſecutes Him that is born after the Spirit.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31363:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
